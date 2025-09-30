@@ -1,0 +1,13 @@
+Lab 1 Notes Data Science
+
+1. Assignments Operations
+#Common Assignment
+Leftward assignment, <-
+Rightward assignment, ->
+Equal assignment, =
+- Assign value to a variable to match the function's arguments
+
+#Super Assignment
+<<-
+->>
+
