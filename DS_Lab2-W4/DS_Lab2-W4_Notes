@@ -1,0 +1,11 @@
+Vector is like a list lah of muliple values with same datatype
+List is like a list with mutliple values with different values
+
+Hierachy of Data Type
+1. Character
+2. Complex
+3. Double
+4. Integer
+5. Logical
+
+cat is to concatenate, display output in a formatted way
