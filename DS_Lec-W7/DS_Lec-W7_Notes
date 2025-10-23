@@ -1,0 +1,10 @@
+Imbalance Data
+Def: Types of datasets that has a target class that has an uneven distribution of observations
+One label is too high observations and some as too low observations
+Ex: 100 observations, 95 says Yes, 5 says No
+
+Methods to Handle
+1. Oversampling (when dataset is small): replicates observations from minority to balance data
+2. Undersampling (when dataset is large): reduce number of observation from majority to balance data
+
+#Scaling Data
