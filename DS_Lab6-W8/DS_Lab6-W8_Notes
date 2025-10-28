@@ -1,0 +1,42 @@
+Data Science Lab 6 Notes
+
+REVISION
+Structure: Vector
+Dim: 1D
+Data Type: Char/Num
+Syntax: v <- c(1,2,100)
+
+Structure: List
+Dim: 1D
+Data Type: Different
+Syntax: a <- list(Name = "Ali", Age = 25, Scores = c(80, 65))
+
+Structure: Matrix
+Dim: 2D
+Data Type: Numerical
+Syntax: m <- matrix(7:12, nrow = 3, ncol = 2)
+
+Structure: Array
+Dim: >= 2D
+Data Type: Numerical
+Syntax: arr <- array(13:24, dim = c(3, 2, 2)) //Row, Column, How Many Table
+_______________________
+Data Frame
+Its like a datasheet or database that stores multiple data.
+_______________________
+Selection Statement vs Looping Structure
+
+Selection
+if-else
+
+Looping
+1. for loop (we know how many we will iterate)
+2. while (check condition once then do the loop)
+3. repeat (it will do the loop at least one)
+_______________________
+Factorise
+- Grouping of the data
+_______________________
+cat - print the string then the value/variable
+print - to only display the content of the data
+str - to display the structure of the data

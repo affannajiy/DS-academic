@@ -8,3 +8,10 @@ Methods to Handle
 2. Undersampling (when dataset is large): reduce number of observation from majority to balance data
 
 #Scaling Data
+Def: Handle varying values or units
+
+Method:
+1. Normalisation
+When features are different scales
+
+2. Standardisation
