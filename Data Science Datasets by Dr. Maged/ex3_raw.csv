@@ -1,0 +1,17 @@
+TagsValue,Definition,Value to be assigned
+Alarm,Good value,1
+Bad,Bad value,Garbage
+Calc Failed,Bad value,Garbage
+Configure,Bad value,Garbage
+Connected,Good value,1
+FALSE,Good value,0
+FAULT,Good value,0
+Good,Good value,1
+I/O Timeout,Bad value,Garbage
+Intf Shut,Bad value,Garbage
+Normal,Good value,1
+Not Connect,Bad value,Garbage
+Out of Serv,Bad value,Garbage
+Pt Created,Bad value,Garbage
+Scan Off,Bad value,Garbage
+TRUE,Good value,1
