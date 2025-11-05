@@ -1,0 +1,31 @@
+Data Science Lecture W9
+
+Simple Linear Regression vs Multiple Linear Regression
+One independent and one dependent but multiple have multiple dependencies between the relations
+y = mx + c, y depends on x but m and c are the coefficients
+
+_______________________________
+|                             |
+|                             |
+|       70-80 for train       |
+|                             |
+|                             |
+|                             |
+|                             |
+|-----------------------------|
+|                             |
+|        20-30 for test       |
+|                             |
+_______________________________
+
+Training you need to feed the independant and dependant variables to the model
+Testing is for the model to eveluate the dependent variable from independent values
+
+1.Define The X and Y
+2.Do Data Frame
+3.Divide Observation to Training and Testing
+4.Make the Model
+
+Slopes of the Linear Graph (aka Gradient)
+
+Error Rate: (Actual Value - Predicted Value) / Actual * 100%

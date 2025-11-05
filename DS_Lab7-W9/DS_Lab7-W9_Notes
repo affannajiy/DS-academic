@@ -1,0 +1,25 @@
+getwd()
+It is to get the working directory
+
+setwd()
+Set the working directory yourself
+
+Imputation Strategies
+1. Fixed Value
+numerical -> 0
+categorical -> "Unknown"
+
+2. Mean, Mode, Median
+
+dplyr collection of Verbs
+1. select()
+2. filter()
+3. mutate()
+4. summarize()
+5. group_by()
+
+gsub is global substitution
+
+%>%
+Take the value from the left and apply the operation at the right
+dataframe %>% filter(variable == 'value')
