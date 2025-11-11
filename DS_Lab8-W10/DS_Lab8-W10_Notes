@@ -1,0 +1,19 @@
+Rainbow gets the colour of rainbows in the pie chart
+
+Rownames the function in order for program to extract the type of the car
+
+Explode refers the distance the distance of each slides from one another
+
+pie(x, labels = "Labels", main = "Title")
+legend(x, c("Label", "Label"))
+
+hist(value, xlab = "Label", ylab = "Label", main = "Title")
+
+plot(x = value, y = value,
+     xlab = "Label",
+     ylab = "Label",
+     main = "Title")
+
+Graphics vs Image
+An image is a 2-dimensional plane of pixels where every pixel have a domain of colors. 
+A graphics is a graphical object-oriented framework.
