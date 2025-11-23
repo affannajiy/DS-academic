@@ -20,7 +20,7 @@ melted_corr <- melt(corr_mat)
 #Plot
 library(ggplot2)
 ggplot(melted_corr, aes(x = Var1, y = Var2, fill = value)) +
-  geom_tile(color = "white") +
-  geom_text(aes(label = value), color = "white", size = 5) +
-  scale_fill_gradient2(low = "lightgrey", high = "black", mid = "grey", midpoint = 0) +
+  geom_tile(color = "lightblue") +
+  geom_text(aes(label = value), color = "black", size = 5) +
+  scale_fill_gradient2(low = "blue", high = "red", mid = "white", midpoint = 0) +
   theme_minimal()
