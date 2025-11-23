@@ -1,0 +1,22 @@
+1. Strength of Correlation
+
+0.00 - 0.19 = Very Weak
+0.20 - 0.39 = Weak
+0.40 - 0.59 = Moderate
+0.60 - 0.79 = Strong
+0.80 - 1.00 = Very Strong
+
+2. Direction
++ve -> var1 increase, var2 increase
+-ve -> var1 increase, var2 decrease
+
+Pearson Correlation
+The value of correlation will explain the direction
+
+Correllogram
+The size of the circle is the strength while the colour is the direction
+
+Heatmap
+The cell values will show the strength while the - or + is the direction
+
+Melt Function will reshape it into an acceptable format into one observation per row with variables with their corresponding value
