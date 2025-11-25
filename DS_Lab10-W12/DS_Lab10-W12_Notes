@@ -1,0 +1,15 @@
+Steps of Finding Linear Regression Manually
+1. Find meand of x and y
+2. Compute slope 
+3. Computer intercept
+4. Regression equation
+
+Residuals measure between the actual and predicted value
+
+Smaller standard deviation makes it more reliable, meaning the datasets are closer to each other
+
+Blank: Not significant
+.    : marginally significant
+*    : significant
+**   : very significant
+***  : highly significant
